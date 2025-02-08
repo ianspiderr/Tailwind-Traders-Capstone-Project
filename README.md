@@ -139,7 +139,8 @@ The median is a statistical measure that indicates the middle value in a set of 
 
 ### Sales Report Snapshot
 
-![Screenshot (7)]![image](https://github.com/user-attachments/assets/67f6a49d-2600-4c2c-aa0c-70dd59373fc0)
+![Screenshot (7)]!![image](https://github.com/user-attachments/assets/aa27f949-a5f5-4a92-b156-7c139943f6bd)
+
 
 
 
@@ -162,5 +163,6 @@ The median is a statistical measure that indicates the middle value in a set of 
 - Step 6: Create a slicer that displays the Datedata from the CalendarTable table.
 
 ## Profit report Snapshot
-![Screenshot (8)]![image](https://github.com/user-attachments/assets/31538f5a-81ac-4df9-85c3-5d4372b5db82)
+![Screenshot (8)]![image]![image](https://github.com/user-attachments/assets/0896fa27-0300-4d5f-a1e5-d3459ea1c4d0)
+
 
