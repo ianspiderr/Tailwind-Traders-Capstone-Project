@@ -163,6 +163,7 @@ The median is a statistical measure that indicates the middle value in a set of 
 - Step 6: Create a slicer that displays the Datedata from the CalendarTable table.
 
 ## Profit report Snapshot
-![Screenshot (8)]![image]![image](https://github.com/user-attachments/assets/0896fa27-0300-4d5f-a1e5-d3459ea1c4d0)
+![Screenshot (8)]!![image](https://github.com/user-attachments/assets/3e9be01b-8956-4c4c-b800-7b8fcf68283d)
+
 
 
